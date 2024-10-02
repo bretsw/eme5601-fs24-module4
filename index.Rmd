@@ -796,7 +796,6 @@ include_graphics("img/toolbench.jpg")
 - Training Requirements Analysis
 - Root Cause Analysis
 - Competency Assessment
-- Performance Analysis
 - Learner Assessment
 - Setting Analysis
 - Developmental Setting Assessment
